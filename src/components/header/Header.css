@@ -1,0 +1,20 @@
+.header-logo img{
+    height: 80px;
+    width: 80px;
+}
+.header-wrapper{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header-men{
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-men a{
+    color: black;
+    text-decoration: none;
+}
